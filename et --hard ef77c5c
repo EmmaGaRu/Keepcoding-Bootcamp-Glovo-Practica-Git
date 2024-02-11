@@ -1,0 +1,26 @@
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33mf7d92c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstyled[m[33m, [m[1;32mhtmlify[m[33m)[m HEAD@{1}: pull: Fast-forward
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{2}: checkout: moving from main to main
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{3}: reset: moving to HEAD~1
+[33mf7d92c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstyled[m[33m, [m[1;32mhtmlify[m[33m)[m HEAD@{4}: pull: Fast-forward
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{5}: reset: moving to HEAD~1
+[33mf7d92c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstyled[m[33m, [m[1;32mhtmlify[m[33m)[m HEAD@{6}: merge styled: Fast-forward
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{7}: checkout: moving from styled to main
+[33mf7d92c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstyled[m[33m, [m[1;32mhtmlify[m[33m)[m HEAD@{8}: merge htmlify: Fast-forward
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{9}: checkout: moving from htmlify to styled
+[33mf7d92c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstyled[m[33m, [m[1;32mhtmlify[m[33m)[m HEAD@{10}: commit: Git-nuestro modificado 2
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{11}: checkout: moving from htmlify to htmlify
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{12}: checkout: moving from main to htmlify
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{13}: checkout: moving from main to main
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{14}: checkout: moving from styled to main
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{15}: checkout: moving from main to styled
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{16}: merge styled: Fast-forward
+[33m1f2910f[m HEAD@{17}: checkout: moving from styled to main
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{18}: checkout: moving from styled to styled
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{19}: reset: moving to ef77c5c
+[33m1f2910f[m HEAD@{20}: reset: moving to HEAD~1
+[33mef77c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/styled[m[33m)[m HEAD@{21}: commit: Git-nuestro modificado
+[33m1f2910f[m HEAD@{22}: checkout: moving from styled to styled
+[33m1f2910f[m HEAD@{23}: checkout: moving from main to styled
+[33m1f2910f[m HEAD@{24}: commit: Git-nuestro.md
+[33mdc76eae[m HEAD@{25}: clone: from https://github.com/EmmaGaRu/Keepcoding-Bootcamp-Mujeres-en-Tech-Glovo-II.git
